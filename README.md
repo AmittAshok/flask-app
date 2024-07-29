@@ -1,3 +1,3 @@
 # flask-app
 
-This is flask project
+This is simple flask project
