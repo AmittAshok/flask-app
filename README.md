@@ -1,3 +1,15 @@
-# flask-app
+Flask Application
+Table of Contents
 
-This is simple flask project
+    Introduction
+    Features
+    Requirements
+    Installation
+    Configuration
+    Running the Application
+    Usage
+    Testing
+    Deployment
+    Contributing
+    License
+    Contact
